@@ -5,6 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Contact Us</title>
+<link rel="stylesheet" href="css/Login.css">
 </head>
 <body>
 <%@ page import="java.sql.*" %>
